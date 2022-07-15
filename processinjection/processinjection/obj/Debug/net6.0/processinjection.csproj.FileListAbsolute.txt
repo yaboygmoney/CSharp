@@ -1,0 +1,15 @@
+C:\Users\golds\source\repos\processinjection\processinjection\obj\Debug\net6.0\processinjection.csproj.AssemblyReference.cache
+C:\Users\golds\source\repos\processinjection\processinjection\obj\Debug\net6.0\processinjection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\golds\source\repos\processinjection\processinjection\obj\Debug\net6.0\processinjection.AssemblyInfoInputs.cache
+C:\Users\golds\source\repos\processinjection\processinjection\obj\Debug\net6.0\processinjection.AssemblyInfo.cs
+C:\Users\golds\source\repos\processinjection\processinjection\obj\Debug\net6.0\processinjection.csproj.CoreCompileInputs.cache
+C:\Users\golds\source\repos\processinjection\processinjection\bin\Debug\net6.0\processinjection.exe
+C:\Users\golds\source\repos\processinjection\processinjection\bin\Debug\net6.0\processinjection.deps.json
+C:\Users\golds\source\repos\processinjection\processinjection\bin\Debug\net6.0\processinjection.runtimeconfig.json
+C:\Users\golds\source\repos\processinjection\processinjection\bin\Debug\net6.0\processinjection.dll
+C:\Users\golds\source\repos\processinjection\processinjection\bin\Debug\net6.0\processinjection.pdb
+C:\Users\golds\source\repos\processinjection\processinjection\obj\Debug\net6.0\processinjection.dll
+C:\Users\golds\source\repos\processinjection\processinjection\obj\Debug\net6.0\refint\processinjection.dll
+C:\Users\golds\source\repos\processinjection\processinjection\obj\Debug\net6.0\processinjection.pdb
+C:\Users\golds\source\repos\processinjection\processinjection\obj\Debug\net6.0\processinjection.genruntimeconfig.cache
+C:\Users\golds\source\repos\processinjection\processinjection\obj\Debug\net6.0\ref\processinjection.dll
